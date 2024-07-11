@@ -1,0 +1,22 @@
+FITUR PRODUCTS
+1. Data produk dapat didownload disini: https://bit.ly/3XM5G5s
+2. Menampilkan daftar produk (list product) by toko
+3. Setiap toko menampilkan minimal 5 produk (10 point)
+4. Informasi yang ditampilkan terdiri dari 
+    nama produk, harga, gambar, nama toko, diskon (jika ada), 
+    tombol add-to- cart. 
+    Desain tampilan dapat bebas dirancang oleh Tim dan estetika dari desain akan menjadi poin penilaian. (20 point)
+
+FITUR CART
+1. Menampilkan daftar produk (list product) by toko
+2. Informasi yang ditampilkan terdiri dari nama produk, harga, gambar, diskon (jika ada), kuantitas
+3. Data cart simpan di state/localstorage, sehingga tetap tersedia walaupun halaman direfresh (10 point)
+4. Tambah/kurang kuantitas (10 point)
+5. Hapus item tiap produk (10 point)
+6. Hapus item per-toko (10 point)
+7. Hapus semua item (5 point)
+8. Checklist item tiap produk (5 point)
+9. Checklist item per-toko (10 point)
+10. Total harga keranjang sesuai dengan produk yg dichecklist dan kuantitinya (5 point)
+11. Tambah note (keterangan) untuk tiap produk (5 point)
+12. Contoh halaman cart yang memiliki https://bit.ly/3L61SEn
