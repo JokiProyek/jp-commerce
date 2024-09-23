@@ -1,4 +1,4 @@
-# [Project Details](https://notion.so/link-to-project)
+# [Project Details](https://www.notion.so/gitta-l/Halaman-List-Product-bbe7e566cdde48c4b60df95a7eda5649?pvs=4)
 
 # Compatibility Note
 * Composer
